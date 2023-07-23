@@ -76,7 +76,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: VIKAS MOURYA
+secondTitle: Vikas Mourya
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -190,7 +190,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:Vikas Mourya
 
 -- button.primary:
 title: Schedule a Meeting
